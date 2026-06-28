@@ -20,10 +20,13 @@ Hi, I'm **Sanjana** 👋<br><br>I'm a passionate software developer and AI enthu
 
 Some Project live demo :
 https://ats-phi-ruddy.vercel.app/
+
 https://booksage-ai-new.vercel.app/
+
+
 https://weather-app-seven-tau-50.vercel.app/
 ---
-[![](https://komarev.com/ghpvc/?username=sankri15&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanjanaPal) 
