@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjana Pal</h1>
+<p align="center">
+
+![](https://img.shields.io/badge/Sanjana%20Pal-7F3FBF?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
