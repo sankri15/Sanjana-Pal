@@ -22,7 +22,7 @@ Some Project live demo :
 
 - 📄 ATS Resume Analyzer
 - 📚 BookSage AI
-- 🌤️ Weather App
+
 ---
 
 
