@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8B5CF6,EC4899,3B82F6&height=100&text=Hi%20there,%20I'm%20Sanjana%20Pal&fontSize=45&fontColor=ffffff" alt="Name Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=250&section=header&text=Sanjana%20Pal&fontSize=75&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descSize=25&descAlignY=70&descAlign=50" alt="Name Banner" />
   </p>
 
   <p align="center">
@@ -21,12 +21,17 @@
 
 <img align="right" width="300" src="cute_coder_girl.png" />
 
-I'm a passionate **Software Developer and AI Enthusiast** who enjoys building impactful projects using modern technologies. I love bringing ideas to life through elegant code and intelligent architecture.
-
-- 🚀 **Currently Focusing On:** Advanced AI algorithms, full-stack Next.js applications, and problem-solving through competitive programming.
-- 🧠 **Learning:** Deep Dive into Machine Learning models and highly scalable cloud architectures.
-- 💬 **Ask me about:** JavaScript, Python, UI/UX Design, and building AI tools!
-- ⚡ **Fun fact:** I love experimenting with new dev tools and optimizing code for absolute maximum performance.
+```javascript
+const sanjanaPal = {
+  role         : "Software Developer & AI Enthusiast",
+  passion      : "Bringing ideas to life through elegant code and intelligent architecture.",
+  currentFocus : ["Advanced AI algorithms", "Full-stack Next.js", "Competitive programming"],
+  learning     : ["Deep Dive into Machine Learning models", "Scalable cloud architectures"],
+  askMeAbout   : ["JavaScript", "Python", "UI/UX Design", "Building AI tools"],
+  funFact      : "I love optimizing code for absolute maximum performance ⚡",
+  contact      : "sanjanapal004@gmail.com"
+};
+```
 
 <br />
 
