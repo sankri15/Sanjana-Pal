@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=250&section=header&text=Sanjana%20Pal&fontSize=75&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descSize=25&descAlignY=70&descAlign=50" alt="Name Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=250&section=header&text=Sanjana%20Pal&fontSize=75&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descSize=25&descAlignY=82&descAlign=50" alt="Name Banner" />
   </p>
 
   <p align="center">
@@ -123,6 +123,7 @@ const sanjanaPal = {
   <br /><br />
   <p><b>An AI-powered GitHub codebase intelligence assistant</b></p>
   <a href="https://github.com/sankri15/codenova-ai"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codenova-n1ye863nz-sanjana-projects.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br /><br />
