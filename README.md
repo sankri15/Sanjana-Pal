@@ -77,21 +77,36 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 
 <br />
 
-## 🚀 Live Projects
+## 🚀 Featured Projects
+
+<br />
 
 <div align="center">
-  <a href="https://github.com/sankri15/codenova-ai">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=codenova-ai&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/sankri15/ATS-Resume-Analyzer">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=ATS-Resume-Analyzer&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=70&text=🧠%20CodeNova%20AI&fontSize=30&fontColor=ffffff" width="100%"/>
+  <br /><br />
+  <p><b>An AI-powered GitHub codebase intelligence assistant</b></p>
+  <a href="https://github.com/sankri15/codenova-ai"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codenova-ai-topaz.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
+<br /><br />
+
 <div align="center">
-  <a href="https://github.com/sankri15/BookSage-AI">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=BookSage-AI&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=064e3b&height=70&text=📄%20ATS%20Resume%20Analyzer&fontSize=30&fontColor=ffffff" width="100%"/>
+  <br /><br />
+  <p><b>Intelligent resume parsing and optimization engine</b></p>
+  <a href="https://github.com/sankri15/ATS_Resume_Analyzer"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ats-phi-ruddy.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+<br /><br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7c2d12&height=70&text=📚%20BookSage%20AI&fontSize=30&fontColor=ffffff" width="100%"/>
+  <br /><br />
+  <p><b>AI-driven book recommendation and summarization platform</b></p>
+  <a href="https://github.com/sankri15/BookSage_AI"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://booksage-ai-new.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br />
