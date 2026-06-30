@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=45&duration=4000&pause=500&color=F75590&background=1E1A2D&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal;Welcome+to+my+Creative+Space;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,23,28,31&height=100&text=Hi%20there,%20I'm%20Sanjana%20Pal&fontSize=45&fontColor=ffffff" alt="Name Banner" />
   </p>
 
   <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" />
+<img align="right" width="300" src="cute_coder_girl.png" />
 
 I'm a passionate **Software Developer and AI Enthusiast** who enjoys building impactful projects using modern technologies. I love bringing ideas to life through elegant code and intelligent architecture.
 
