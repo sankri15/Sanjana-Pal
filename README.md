@@ -143,7 +143,7 @@ const sanjanaPal = {
   <br /><br />
   <p><b>AI-driven book recommendation and summarization platform</b></p>
   <a href="https://github.com/sankri15/BookSage_AI"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://booksage-ai-new.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://boo-k-saga.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br />
